@@ -9,11 +9,13 @@ https://www.nexusmods.com/oblivionremastered/mods/1131
 ## 2. Téléchargez le script backup.bat
 
 ## 3. Copiez le script à côté du dossier OblivionRemastered
+![image](https://github.com/user-attachments/assets/0e9b77ab-8bd5-4936-ae52-ed8563ff0c81)
 
 ## 4. Lancez le script
+Ça va vous demander les droits d'admin car le jeu devrait être installé dans un emplacement admin.
 
 ## 5. Faites l'extraction du dossier OblivionRemastered de Frenchyblivion - Patch FR sur le dossier OblivionRemastered
-
+Si vous avez 7-zip, glissez-déposez OblivionRemastered de l'archive dans OblivionRemastered du jeu
 
 **Si vous avez bien lancé le script la question de remplacement de fichier n'est pas posé par le système.**
 **Si le système pose la question, c'est que vous avez pas lancé le script au bon emplacement.**
