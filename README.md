@@ -13,10 +13,10 @@ https://www.nexusmods.com/oblivionremastered/mods/1131
 
 ## 4. Lancez le script
 Ça va vous demander les droits d'admin car le jeu devrait être installé dans un emplacement admin.
+![image](https://github.com/user-attachments/assets/88d20c77-7b7f-41d1-87e1-320c3d46c905)
 
 ## 5. Faites l'extraction du dossier OblivionRemastered de Frenchyblivion - Patch FR sur le dossier OblivionRemastered
 Si vous avez 7-zip, glissez-déposez OblivionRemastered de l'archive dans OblivionRemastered du jeu
-![image](https://github.com/user-attachments/assets/88d20c77-7b7f-41d1-87e1-320c3d46c905)
 
 **Si vous avez bien lancé le script la question de remplacement de fichier n'est pas posé par le système.**
 **Si le système pose la question, c'est que vous avez pas lancé le script au bon emplacement.**
