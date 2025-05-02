@@ -40,6 +40,8 @@ Le script va renommer les fichiers .bsa d'origine en .old avant extraction du mo
 ## 5. Faites l'extraction du dossier OblivionRemastered de Frenchyblivion - Patch FR sur le dossier OblivionRemastered
 Si vous avez 7-zip, glissez-déposez OblivionRemastered de l'archive dans OblivionRemastered du jeu
 
+![image](https://github.com/user-attachments/assets/d7bae442-8d1e-4b3a-89f2-15bf7474a5d7)
+
 **Si vous avez bien lancé le script la question de remplacement de fichier n'est pas posé par le système.**
 **Si le système pose la question, c'est que vous avez pas lancé le script au bon emplacement.**
 
@@ -51,6 +53,7 @@ FrenchyBlivionDLC.esp
 FrenchyBlivionVanilla.esp
 
 À la fin du fichier "OblivionRemastered\Content\Dev\ObvData\Data\Plugins.txt"
+
 ![image](https://github.com/user-attachments/assets/1fa8bbfd-da45-445d-be4e-393e3a04f0ca)
 
 ## 6. Optionnel. Téléchargez et installez le mod [Silent Protagonist](https://www.nexusmods.com/oblivionremastered/mods/180)
