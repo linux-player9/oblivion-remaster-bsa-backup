@@ -1,6 +1,5 @@
 # oblivion-remaster-bsa-backup 03-05-2025
-Un script de backup des fichiers d'origine pour le mod oblivion remastered 0.6
-S'utilise en complément du mod [Frenchyblivion - Patch FR](https://www.nexusmods.com/oblivionremastered/mods/1131).
+Un script de backup des fichiers d'origine pour le mod [Frenchyblivion - Patch FR](https://www.nexusmods.com/oblivionremastered/mods/1131).
 
 # Détails technique
 
