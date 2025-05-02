@@ -6,8 +6,8 @@ S'utilise en complément du mod [Frenchyblivion - Patch FR](https://www.nexusmod
 
 ## 1. Téléchargez le mod [Frenchyblivion - Patch FR](https://www.nexusmods.com/oblivionremastered/mods/1131) :
 https://www.nexusmods.com/oblivionremastered/mods/1131
-## 2. Téléchargez le script backup.bat
-
+## 2. Téléchargez le script [backup.bat](https://raw.githubusercontent.com/linux-player9/oblivion-remaster-bsa-backup/refs/heads/main/backup.bat)
+https://raw.githubusercontent.com/linux-player9/oblivion-remaster-bsa-backup/refs/heads/main/backup.bat
 ## 3. Copiez le script à côté du dossier OblivionRemastered
 ![image](https://github.com/user-attachments/assets/0e9b77ab-8bd5-4936-ae52-ed8563ff0c81)
 
