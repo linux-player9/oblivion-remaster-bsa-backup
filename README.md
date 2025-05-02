@@ -1,6 +1,14 @@
-# oblivion-remaster-bsa-backup
+# oblivion-remaster-bsa-backup 03-05-2025
 Un script de backup des fichiers d'origine pour le mod oblivion remastered 0.6
 S'utilise en complément du mod [Frenchyblivion - Patch FR](https://www.nexusmods.com/oblivionremastered/mods/1131).
+
+# Détails technique
+
+Le mod [French Voices](https://www.nexusmods.com/oblivionremastered/mods/1120) utilise une méthode avec Unreal Engine pour fonctionner,
+Les timing des phrases ne sont actuellement pas ajustés
+
+Une meilleure expérience sera proposée par le mod [Frenchyblivion - Patch FR](https://www.nexusmods.com/oblivionremastered/mods/1131)
+Le script de cette page est écrit en CMD Batch par soucis de transparence sur les actions effectuées. L'équipe derrière [Frenchyblivion - Patch FR](https://www.nexusmods.com/oblivionremastered/mods/1131) souhaite créer un .exe pour assister l'installation des futurs versions.
 
 # Pour l'installation
 
@@ -26,6 +34,8 @@ Enregistrez le fichier
 
 ![image](https://github.com/user-attachments/assets/88d20c77-7b7f-41d1-87e1-320c3d46c905)
 
+Le script va renommer les fichiers .bsa d'origine en .old avant extraction du mod.
+
 ## 5. Faites l'extraction du dossier OblivionRemastered de Frenchyblivion - Patch FR sur le dossier OblivionRemastered
 Si vous avez 7-zip, glissez-déposez OblivionRemastered de l'archive dans OblivionRemastered du jeu
 
@@ -40,6 +50,7 @@ FrenchyBlivionDLC.esp
 FrenchyBlivionVanilla.esp
 
 À la fin du fichier "OblivionRemastered\Content\Dev\ObvData\Data\Plugins.txt"
+![image](https://github.com/user-attachments/assets/1fa8bbfd-da45-445d-be4e-393e3a04f0ca)
 
 ## 6. Optionnel. Téléchargez et installez le mod [Silent Protagonist](https://www.nexusmods.com/oblivionremastered/mods/180)
 https://www.nexusmods.com/oblivionremastered/mods/180
