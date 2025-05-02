@@ -15,11 +15,12 @@ Le script de cette page est écrit en CMD Batch par soucis de transparence sur l
 ## 1. Téléchargez le mod [Frenchyblivion - Patch FR](https://www.nexusmods.com/oblivionremastered/mods/1131) :
 https://www.nexusmods.com/oblivionremastered/mods/1131
 ## 2. Téléchargez le script [backup.bat](https://raw.githubusercontent.com/linux-player9/oblivion-remaster-bsa-backup/refs/heads/main/backup.bat)
-https://raw.githubusercontent.com/linux-player9/oblivion-remaster-bsa-backup/refs/heads/main/backup.bat
 
 Clic droit > Enregistrez la cible du lien sous
 
 ![image](https://github.com/user-attachments/assets/2b6e2a2f-c4fa-4ed8-8465-72ec0d297aa1)
+
+https://raw.githubusercontent.com/linux-player9/oblivion-remaster-bsa-backup/refs/heads/main/backup.bat
 
 Enregistrez le fichier
 
